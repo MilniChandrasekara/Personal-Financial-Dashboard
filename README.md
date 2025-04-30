@@ -31,7 +31,7 @@ This Power BI dashboard provides a comprehensive view of personal financial data
 
 ##  File Contents
 
-- `Personal-Financial-Dashboard.pbix` – Power BI file containing the full interactive dashboard
+- `financial_Dashboard.pbix` – Power BI file containing the full interactive dashboard
 
 ---
 
